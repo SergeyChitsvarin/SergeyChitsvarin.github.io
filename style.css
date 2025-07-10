@@ -205,7 +205,6 @@ nav a.active {
 /* Footer */
 footer {
     background-color: #1f2937;
-    color: white;
     text-align: center;
     padding: 2rem 0;
     margin-top: 3rem;
@@ -223,6 +222,10 @@ footer ul {
 
 footer li {
     font-size: 1rem;
+}
+
+footer li a {
+    color:white;
 }
 
 /* Responsive Design */
